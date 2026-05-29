@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifydarse",
+        "uuid": 1352436,
+        "checksum": "efpgc"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
